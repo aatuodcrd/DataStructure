@@ -1,0 +1,15 @@
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/bin/Debug/net7.0/Week 011
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/bin/Debug/net7.0/Week 011.deps.json
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/bin/Debug/net7.0/Week 011.runtimeconfig.json
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/bin/Debug/net7.0/Week 011.dll
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/bin/Debug/net7.0/Week 011.pdb
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.csproj.AssemblyReference.cache
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.GeneratedMSBuildEditorConfig.editorconfig
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.AssemblyInfoInputs.cache
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.AssemblyInfo.cs
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.csproj.CoreCompileInputs.cache
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.dll
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/refint/Week 011.dll
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.pdb
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/Week 011.genruntimeconfig.cache
+/Users/j.papontee/Library/CloudStorage/GoogleDrive-st32673@kn.ac.th/ไดรฟ์ของฉัน/PIM/Learning/ปี 2/1.1/Data Structure/Week 011/Week 011/obj/Debug/net7.0/ref/Week 011.dll
