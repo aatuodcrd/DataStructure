@@ -1,0 +1,15 @@
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.csproj.AssemblyReference.cache
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.AssemblyInfoInputs.cache
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.AssemblyInfo.cs
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.csproj.CoreCompileInputs.cache
+/Users/j.papontee/Projects/Stack/Stack/bin/Debug/net7.0/Stack.deps.json
+/Users/j.papontee/Projects/Stack/Stack/bin/Debug/net7.0/Stack.dll
+/Users/j.papontee/Projects/Stack/Stack/bin/Debug/net7.0/Stack.pdb
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.dll
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/refint/Stack.dll
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.pdb
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/ref/Stack.dll
+/Users/j.papontee/Projects/Stack/Stack/bin/Debug/net7.0/Stack
+/Users/j.papontee/Projects/Stack/Stack/bin/Debug/net7.0/Stack.runtimeconfig.json
+/Users/j.papontee/Projects/Stack/Stack/obj/Debug/net7.0/Stack.genruntimeconfig.cache
